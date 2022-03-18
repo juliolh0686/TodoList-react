@@ -1,0 +1,15 @@
+ul {
+    margin: 20px 0 0 0 ;
+    padding: 10px 0 15px 0;
+    list-style: none;
+    background-color: #EADD7F;
+    width: 100%;
+    -webkit-box-shadow: -12px 10px 5px -1px rgba(0,0,0,0.38);
+    -moz-box-shadow: -12px 10px 5px -1px rgba(0,0,0,0.38);
+    box-shadow: -12px 10px 5px -1px rgba(0,0,0,0.38);
+}
+
+p {
+    text-align: center;
+
+}

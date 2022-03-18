@@ -1,0 +1,21 @@
+.TodoSearch {
+    background-color: #FAFAFA;
+    border: 1px solid #000000;
+    height: 50px;
+    width: 100%;
+    font-size: 22px;
+    text-align: center;
+    font-weight: 400;
+    color: #000000;
+    font-family: 'Indie Flower', cursive;
+    padding: 0;
+  }
+  
+  .TodoSearch::placeholder {
+    color: #A5A5A5;
+    font-weight: 400;
+  }
+  
+  .TodoSearch:focus {
+    outline-color: #61DAFA;
+  }
